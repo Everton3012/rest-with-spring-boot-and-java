@@ -1,10 +1,10 @@
-package br.com.erudio;
+package br.com.Everton3012;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestWithSpringBootAndJavaErudioApplicationTests {
+class StartupTests {
 
 	@Test
 	void contextLoads() {
